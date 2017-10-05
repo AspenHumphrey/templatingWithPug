@@ -1,0 +1,23 @@
+{
+  "name": "templatingpug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AspenHumphrey/templatingWithPug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AspenHumphrey/templatingWithPug/issues"
+  },
+  "homepage": "https://github.com/AspenHumphrey/templatingWithPug#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "pug": "^2.0.0-rc.4"
+  }
+}
